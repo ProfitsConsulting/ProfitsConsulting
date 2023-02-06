@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.profits.consulting/wp-content/uploads/1578512432264.jpg" align="center" style="width: 100%" />
+<img src="/banner.jpg" align="center" style="width: 100%" />
 </div>  
   
 
