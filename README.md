@@ -11,7 +11,7 @@
 
 A PROFITS CONSULTING é uma empresa que fornece soluções inovadoras nas áreas de Tecnologia e Gestão de Documentos.
 
-Com mais de 10 anos de atuação no mercado nacional e internacional, atua em parceira com o cliente, entendendo seu negócio e apoiando na busca de soluções que maximizem o valor agregado à estratégia traçada.
+Com mais de uma década de atuação nos mercados nacional e internacional, atua em parceira com o cliente, entendendo seu negócio e apoiando na busca de soluções que maximizem o valor agregado à estratégia traçada.
 
 A PROFITS CONSULTING atua desde o diagnóstico e definição estratégica até o acompanhamento de estratégias e ações estabelecidas, com enfoque em: Desenvolvimento de Software, Consultoria em TI e Gestão Documental, Digitalização de Documentos e muito mais!  
   
@@ -28,7 +28,7 @@ A PROFITS CONSULTING atua desde o diagnóstico e definição estratégica até o
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="45" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -94,7 +94,7 @@ A PROFITS CONSULTING atua desde o diagnóstico e definição estratégica até o
 Saiba mais sobre a Profits Consulting e seus serviços nos endereços abaixo:  
   
 
-|[Profits Consulting](https://profits.consulting)|[E-CLIC](https://e-clic.net)|[Pro-Tests](https://pro-tests.com)|
+|[<img style="margin: 10px" src="https://profits.consulting/wp-content/uploads/2018/06/cropped-profits_consulting_logo-3.png" alt="Profits Consulting" width="100" />](https://profits.consulting)|[<img style="margin: 10px" src="https://e-clic.net/wp-content/uploads/logo_ie_compat_blue.png" alt="E-CLIC" width="100" />](https://e-clic.net)|[<img style="margin: 10px" src="https://pro-tests.com/images/logo-topo-xs.png" alt="Pro-Tests" width="100" />](https://pro-tests.com)|
 |---|---|---|  
   
 
